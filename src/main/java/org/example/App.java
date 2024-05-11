@@ -18,6 +18,7 @@ public class App
          */
         if(bEsHombre){
             System.out.println("Es hombre");
+            System.out.println("Desarrollando ejercicios 1");
 
             if(edad > 20){
                 System.out.println("Si puede entrar a la fiesta");
